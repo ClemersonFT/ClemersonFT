@@ -36,16 +36,36 @@ Atualmente venho focando meus estudos em desenvolvimento back-end, principalment
 
 ---
 
+## 📂 Projetos pessoais
+
+### 📧 MailManager
+Sistema feito em Java para gerenciamento de e-mails, com foco em automação de filtragem e organização de mensagens.  
+O objetivo do projeto é praticar lógica, manipulação de dados e automação de tarefas reais do dia a dia.
+
+---
+
+### 📚 Libranos
+Projeto pessoal voltado à organização e estudo de conceitos de programação e/ou sistema de biblioteca (dependendo da versão atual do seu projeto).  
+Focado em prática de estruturas, organização de código e evolução como desenvolvedor.
+
+---
+
+### ⚙️ Outros projetos
+Também desenvolvo pequenos sistemas e testes práticos para aprendizado contínuo, explorando novas ideias em Java e automação.
+
+---
+
+
 ## 📫 Contato
 
-- Email: seuemail@exemplo.com  
-- LinkedIn: linkedin.com/in/seuperfil  
+- Email: Clemersonfreislebentroian@gmail.com  
+- LinkedIn: linkedin.com/in/clemersonft  
 
 ---
 
 ## ⚡ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClemersonFT&show_icons=true&theme=tokyonight)
 
 ---
 
