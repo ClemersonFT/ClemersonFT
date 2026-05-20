@@ -65,8 +65,7 @@ Também desenvolvo pequenos sistemas e testes práticos para aprendizado contín
 
 ## ⚡ GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clemersonft&show_icons=true&theme=tokyonight)
-](https://github-readme-stats.vercel.app/api?username=ClemersonFT&show_icons=true&theme=tokyonight)
+https://github-readme-stats.vercel.app/api?username=ClemersonFT&show_icons=true&theme=tokyonight
 ---
 
 💡 *Sempre aprendendo e construindo coisas novas.*
