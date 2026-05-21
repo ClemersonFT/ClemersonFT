@@ -16,25 +16,6 @@ Atualmente venho focando meus estudos em desenvolvimento back-end, principalment
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
-
-- Java ☕  
-- Git & GitHub  
-- SQL / Banco de Dados  
-- APIs REST  
-- HTML / CSS (básico/intermediário)  
-- Linux (básico)
-
----
-
-## 📈 Em aprendizado
-
-- Spring Boot  
-- Testes automatizados  
-- Arquitetura de software  
-- Boas práticas (SOLID, Clean Code)
-
----
 
 ## 📂 Projetos pessoais
 
